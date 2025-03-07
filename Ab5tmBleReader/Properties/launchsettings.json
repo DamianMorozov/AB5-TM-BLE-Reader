@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Ab5tmBleReader (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "Ab5tmBleReader (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
